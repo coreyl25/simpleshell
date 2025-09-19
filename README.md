@@ -63,17 +63,12 @@ You should see a prompt:
    > ls -la
    ```
 
-2. **Print working directory**:
+2. **Echo command**:
    ```
-   > pwd
-   ```
-
-3. **Echo command**:
-   ```
-   > echo "Hello World"
+   > echo "text"
    ```
 
-4. **Date command**:
+3. **Date command**:
    ```
    > date
    ```
@@ -85,11 +80,4 @@ You should see a prompt:
    > nonexistentcommand
    ```
    Should show error message.
-
-2. **Invalid directory**:
-   ```
-   > cd /nonexistent
-   ```
-   Should show error message.
-
 
